@@ -1,6 +1,5 @@
 # Tech_News
 A Private platform where news can be share among our group or organization.
-///////////////////////////////////////////////////////////////////////////////////
 Steps-
 1.Click on "Plus" button.
 2.Login- permission only to specific people
