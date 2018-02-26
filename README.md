@@ -1,7 +1,7 @@
 # Tech_News
 A Private platform where news can be share among our group or organization.
 
-Steps_To_Add_News-
+Steps_To_Add_New-
 1.Click on "Plus" button.
 2.Login- permission only to specific people
 Email=> pravin@gmail.com
